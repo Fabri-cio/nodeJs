@@ -1,0 +1,23 @@
+{
+  "name": "12npm_init",
+  "version": "0.0.1",
+  "description": "como inicializar un repositorio",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "npm",
+    "init",
+    "nodemon"
+  ],
+  "author": "william",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
